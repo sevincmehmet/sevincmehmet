@@ -1,8 +1,8 @@
 ### Merhaba, ben Mehmet Ali 👋
 
-**Full-stack geliştiriciyim: React + .NET, ve yapay zeka ajanları.**
+**Frontend Developer · backend (.NET) ve yapay zeka ajanları öğreniyorum.**
 
-4+ yıldır React, React Native ve Electron ile web, mobil ve masaüstü ürünler geliştiriyorum. Son dönemde backend'e (.NET Clean Architecture) ve LLM tabanlı ajanlara yöneldim. İlgimi en çok çeken konu, bir yapay zeka özelliğini gerçek bir ürüne **güvenli** şekilde bağlamak: yetki kuralı prompt'ta değil kodda, riskli işlemler insan onayında ve davranış eval'le ölçülüyor.
+4+ yıldır React, React Native ve Electron ile web, mobil ve masaüstü ürünler geliştiriyorum. Şimdi frontend'in ötesine geçiyorum: .NET ile backend öğreniyor, LLM tabanlı ajanlar geliştiriyorum. İlgimi en çok çeken konu, bir yapay zeka özelliğini gerçek bir ürüne **güvenli** şekilde bağlamak: yetki kuralı prompt'ta değil kodda, riskli işlemler insan onayında ve davranış eval'le ölçülüyor.
 
 [![Portfolyo](https://img.shields.io/badge/Portfolyo-twin--core-111?style=flat-square)](https://twin-core.netlify.app/mas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Ali_Sevinç-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-sevin%C3%A7-2a8521254/)
@@ -27,7 +27,7 @@ Ayrıca: arkadaşlarımla geliştirdiğimiz etkinlik ve bilet platformu **[Jolli
 
 - **Frontend:** React · Next.js · TypeScript · Zustand / Redux · Tailwind · MUI / Radix UI
 - **Mobil & masaüstü:** React Native (Expo, CLI) · Electron
-- **Backend:** .NET (Clean Architecture, EF Core, SQL Server) · Node.js · Docker
+- **Backend (öğreniyorum):** .NET (Clean Architecture, EF Core, SQL Server) · Node.js · Docker
 - **Yapay zeka:** Google ADK · Gemini · Claude Code (çoklu ajanla geliştirme, hooks) · tool calling · eval
 - **Diğer:** Python · scikit-learn · MQTT · Git
 

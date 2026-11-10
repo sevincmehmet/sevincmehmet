@@ -1,40 +1,42 @@
-### Merhaba, ben Mehmet Ali 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/baslik-dark.svg">
+  <img alt="Mehmet Ali Sevinç. Frontend Developer. 4+ yıl React, React Native ve Electron. Şimdi .NET ve yapay zeka ajanları." src="assets/baslik-light.svg" width="100%">
+</picture>
 
-**Frontend Developer · backend (.NET) ve yapay zeka ajanları öğreniyorum.**
+<p align="center">
+  <a href="https://twin-core.netlify.app/mas"><b>Portfolyo</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mehmet-ali-sevin%C3%A7-2a8521254/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://jollin.com.tr/j/"><b>Jollin</b></a>
+</p>
 
-4+ yıldır React, React Native ve Electron ile web, mobil ve masaüstü ürünler geliştiriyorum. Şimdi frontend'in ötesine geçiyorum: .NET ile backend öğreniyor, LLM tabanlı ajanlar geliştiriyorum. İlgimi en çok çeken konu, bir yapay zeka özelliğini gerçek bir ürüne **güvenli** şekilde bağlamak: yetki kuralı prompt'ta değil kodda, riskli işlemler insan onayında ve davranış eval'le ölçülüyor.
+<br>
 
-[![Portfolyo](https://img.shields.io/badge/Portfolyo-twin--core-111?style=flat-square)](https://twin-core.netlify.app/mas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Ali_Sevinç-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-sevin%C3%A7-2a8521254/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ilkeler-dark.svg">
+  <img alt="Yapay zekayı ürüne güvenle bağlamak: yetki kodda, işlem insan onayında, davranış eval'le ölçülü." src="assets/ilkeler-light.svg" width="100%">
+</picture>
 
----
+<br><br>
 
-### 🔭 Öne çıkan projeler
+<h3 align="center">Öne çıkan projeler</h3>
 
-| Proje | Ne? | Teknolojiler |
-|---|---|---|
-| **[org-tree-asistani](https://github.com/sevincmehmet/org-tree-asistani)** | İki ajanlı organizasyon asistanı. Yetki kontrolü `before_tool_callback`'te, yazma işlemleri insan onayında, gerçek modele karşı güvenlik eval'i. | Google ADK · Gemini · Python · React |
-| **[pano](https://github.com/sevincmehmet/pano)** | Birden fazla Claude Code ajanını ağaç yapısında, gömülü terminallerle tek pencereden yöneten masaüstü uygulaması. Ajanlar kendi alt ajanlarını açabiliyor. | Electron · node-pty · xterm.js · Claude Code hooks |
-| **[mini-erp](https://github.com/sevincmehmet/mini-erp)** | Çok şirketli masaüstü ERP: personel, vardiya, puantaj, izin, Türk bordrosu (kıst gün dahil). Şirket bazlı veri izolasyonu testlerle doğrulanmış. [Windows demo](https://github.com/sevincmehmet/mini-erp/releases) | .NET 10 · EF Core · Electron · React 19 · Docker |
-| **[smart-plug-app](https://github.com/sevincmehmet/smart-plug-app)** | Akıllı prizleri MQTT ile gerçek zamanlı kontrol eden IoT mobil uygulaması. UI/UX tasarımı da bana ait. | Expo · React Native · MQTT |
-| **[ECommerceDotNet](https://github.com/sevincmehmet/ECommerceDotNet)** | Katmanlı mimaride e-ticaret API'si: JWT ve izin tabanlı yetkilendirme. | .NET 8 · EF Core · JWT |
+<p align="center">
+  <a href="https://github.com/sevincmehmet/org-tree-asistani"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kart-org-tree-dark.svg"><img alt="org-tree-asistani: Google ADK ile iki ajanlı organizasyon asistanı" src="assets/kart-org-tree-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/sevincmehmet/pano"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kart-pano-dark.svg"><img alt="pano: Claude Code ajanlarını tek pencereden yöneten masaüstü uygulaması" src="assets/kart-pano-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sevincmehmet/mini-erp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kart-mini-erp-dark.svg"><img alt="mini-erp: çok şirketli masaüstü ERP" src="assets/kart-mini-erp-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/sevincmehmet/smart-plug-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kart-smart-plug-dark.svg"><img alt="smart-plug-app: MQTT ile akıllı priz uygulaması" src="assets/kart-smart-plug-light.svg" width="49%"></picture></a>
+</p>
 
-Ayrıca: arkadaşlarımla geliştirdiğimiz etkinlik ve bilet platformu **[Jollin](https://jollin.com.tr/j/)**'in web tarafında çalışıyorum (Next.js).
+<br>
 
----
+<h3 align="center">Kullandıklarım</h3>
 
-### 🛠️ Kullandıklarım
+<p align="center">
+  <b>Arayüz</b>&nbsp;&nbsp;React · Next.js · TypeScript · Zustand · Redux · Tailwind · Radix UI · MUI<br>
+  <b>Mobil &amp; masaüstü</b>&nbsp;&nbsp;React Native · Expo · Electron<br>
+  <b>Öğreniyorum</b>&nbsp;&nbsp;.NET · EF Core · Google ADK · Python · eval
+</p>
 
-- **Frontend:** React · Next.js · TypeScript · Zustand / Redux · Tailwind · MUI / Radix UI
-- **Mobil & masaüstü:** React Native (Expo, CLI) · Electron
-- **Backend (öğreniyorum):** .NET (Clean Architecture, EF Core, SQL Server) · Node.js · Docker
-- **Yapay zeka:** Google ADK · Gemini · Claude Code (çoklu ajanla geliştirme, hooks) · tool calling · eval
-- **Diğer:** Python · scikit-learn · MQTT · Git
-
----
-
-### 🌱 Şu sıralar
-
-- .NET backend tarafını derinleştiriyorum
-- Ajanlar için eval yazmayı öğreniyorum: model ne zaman sızdırıyor, ne zaman uyduruyor?
-- Projelerimi Claude Code ile planlayıp paralel ajanlara bölerek geliştiriyorum ve her parçayı test ederek birleştiriyorum
+<p align="center">
+  <sub>Projelerimi Claude Code ile planlayıp paralel ajanlara bölerek geliştiriyor, her parçayı test ederek birleştiriyorum.</sub>
+</p>

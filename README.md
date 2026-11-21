@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/baslik-dark.svg">
-  <img alt="Mehmet Ali Sevinç. Frontend Developer. 4+ yıl React, React Native ve Electron. Şimdi .NET ve yapay zeka ajanları." src="assets/baslik-light.svg" width="100%">
+  <img alt="Mehmet Ali Sevinç. Software Developer. 4,5+ yıl React, React Native ve Electron. Şimdi Python ve LLM tabanlı ürünler." src="assets/baslik-light.svg" width="100%">
 </picture>
 
 <p align="center">
